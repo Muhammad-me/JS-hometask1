@@ -1,7 +1,7 @@
 let welcome = prompt("Welcome to class. Please write your name.");
 const students = ["Jakhongir", "Murodjon", "Boburjon", "Azimjon" ,"Akmalxon", "Farruhbek", "Kamoldin", "Muhammad", "MuhammadYusuf", "Vorisxon", "Hikmatillo"];
 if (welcome == students[0]){
-    alert(`Welcome ${students[0]}`);
+    alert(`Welcome ${students[0]} teacher`);
 }else if (welcome == students[1]){
     alert(`Welcome ${students[1]}`);  
 }else if (welcome == students[2]) {   
